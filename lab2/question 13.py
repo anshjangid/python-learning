@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 13 14:13:14 2026
-
-@author: acer
-"""
-
 basic = float(input("Enter Basic Salary: "))
 
 hra = 0.20 * basic
