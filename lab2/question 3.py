@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 11 16:04:58 2026
-
-@author: acer
-"""
-
 W=int(input("Enter Weight of the person:"))
 H=int(input("Enter Height of the person:"))
 
