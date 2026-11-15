@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 14 18:24:41 2026
-
-@author: acer
-"""
-
 income = float(input("Enter your taxable income: "))
 
 if income <= 20000:
