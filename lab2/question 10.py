@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 13 13:44:25 2026
-
-@author: acer
-"""
-
 Price = 2.50
 
 pounds = float(input("Enter the number of pounds of apples: "))
